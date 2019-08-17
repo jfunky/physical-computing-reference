@@ -26,17 +26,17 @@ Components
 * [Servo motor](https://www.adafruit.com/product/155)
 * [DC Motor](https://www.adafruit.com/product/711)
 * [H Bridges](https://www.adafruit.com/product/807)
-* [LEDs](hhttps://www.sparkfun.com/products/12062)
+* [LEDs](https://www.sparkfun.com/products/12062)
 * [Pushbuttons](https://www.sparkfun.com/products/97)
 * [Potentiometers](https://www.adafruit.com/product/562)
 * [Photocells](https://www.adafruit.com/product/161)
 * [Speaker](https://www.adafruit.com/product/1313)
 * [Assorted sensors](https://www.adafruit.com/product/176?gclid=Cj0KCQjwy97qBRDoARIsAITONTLVXyPPfVwA-W1TDn5mEQb-8UhIR1JNzKZQGxsfRmL8pJJcNWN2QL0aArlREALw_wcB)
 * [Assorted resistors](https://www.sparkfun.com/products/10969)
-* [Diodes](https://www.adafruit.com/product/755) general purpose rectifier
+* [Diodes](https://www.adafruit.com/product/755), general purpose rectifier
 * [Assorted capacitors](https://www.sparkfun.com/products/13698)	
 * [Transistors](https://www.adafruit.com/product/976)
-* [Voltage regulator]	(https://www.adafruit.com/product/2164)
+* [Voltage regulator](https://www.adafruit.com/product/2164)
 * [Power adapter (9v-12v)](https://www.adafruit.com/product/63)
 * [Battery packs/connectors](https://www.adafruit.com/product/80)
 
