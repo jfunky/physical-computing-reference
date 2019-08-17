@@ -1,4 +1,4 @@
-# creative-code-links
+# Physical Computing Reference list
 Useful links for physical and creative computing
 
 ### Beginner Parts List
