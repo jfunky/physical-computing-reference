@@ -18,7 +18,6 @@ Tools
 Components
 
 * [Arduino Starter Kit](https://store.arduino.cc/usa/arduino-starter-kit) or on [Amazon](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A), pretty much everything you'll need to start prototyping)
-
 * Header pins [female](https://www.adafruit.com/product/4160) & [male](https://www.adafruit.com/product/3009)
 * [Wire](https://www.adafruit.com/product/1311)
 * [Alligator Clips](hhttps://www.adafruit.com/product/1008)
