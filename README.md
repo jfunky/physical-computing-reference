@@ -73,6 +73,7 @@ Fabrication:
 
 ### Online Tutorials & Resources
 
+* [Arduino Playground](https://playground.arduino.cc/uploads/Main/arduino_comic_v0004.pdf)
 * [ITP's Physical Computing Vimeo Channel](https://vimeo.com/channels/pcomp)
 * [ITP's Physical Computing tutorials](https://itp.nyu.edu/physcomp/)
 * [ITP's Sensors site](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
@@ -104,11 +105,18 @@ p5.js
 
 Non-exhaustive assortment of possibilities
 
+* [Radical Software](http://www.radicalsoftware.org/e/index.html)
+* [Lillian Schwartz's films](http://lillian.com/films/)
+* [Mechanical Mirrors](https://bitforms.art/archives/rozin/penguins-mirror), Danny Rozin
+* [Coin-Operated Wetland](http://tegabrain.com/Coin-Operated-Wetland)
+* [Not the Only One](https://www.stephaniedinkins.com/ntoo.html) Stephanie Dinkins
+* [Urban Armor](http://kthartic.com/index.php?/class/urban-armor-7/) Kathleen McDermott
+* [Crank the Web](http://www.coin-operated.com/2010/05/04/crank-the-web-2001/), Jonah Brucker-Cohen
+* [Ryoji Ikeda](http://www.ryojiikeda.com/) / [Datamatics](http://www.ryojiikeda.com/project/datamatics/)
+* [Thinking Machines @ MOMA](https://www.moma.org/calendar/exhibitions/3863?installation_image_index=1)
 * [teamLab](https://www.teamlab.art/)
 * [smooth.technology](https://smooth.technology/)
 * [AV&C](https://www.av-controls.com/)
-* [Crank the Web](http://www.coin-operated.com/2010/05/04/crank-the-web-2001/), Jonah Brucker-Cohen
-* [Mechanical Mirrors](https://bitforms.art/archives/rozin/penguins-mirror), Danny Rozin
-* [Coin-Operated Wetland] (http://tegabrain.com/Coin-Operated-Wetland)
-* [Not the Only One](https://www.stephaniedinkins.com/ntoo.html) Stephanie Dinkins
-* [Urban Armor](http://kthartic.com/index.php?/class/urban-armor-7/) Kathleen McDermott
+
+
+
