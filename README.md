@@ -101,7 +101,7 @@ p5.js
 * [Kinectron](https://github.com/lisajamhoury/kinectron) and [Getting Started Guide](https://itp.nyu.edu/classes/dance-f16/kinect/)
 
 
-### Physical Computing Studios & Art
+### Physical Computing Art/Studios/Inspiration
 
 Non-exhaustive assortment of possibilities
 
@@ -114,9 +114,13 @@ Non-exhaustive assortment of possibilities
 * [Crank the Web](http://www.coin-operated.com/2010/05/04/crank-the-web-2001/), Jonah Brucker-Cohen
 * [Ryoji Ikeda](http://www.ryojiikeda.com/) / [Datamatics](http://www.ryojiikeda.com/project/datamatics/)
 * [Thinking Machines @ MOMA](https://www.moma.org/calendar/exhibitions/3863?installation_image_index=1)
+* [bitforms gallery](https://bitforms.art/)
+* [Feel Train](https://feeltrain.com/) cofounded by [Darius Kazemi](http://tinysubversions.com/) and [Courtney Stanton](https://www.superopinionated.com/)
+* [Tactical Tech](https://tacticaltech.org/#/projects)
+* [Bleep Labs](https://bleeplabs.com/)
 * [teamLab](https://www.teamlab.art/)
 * [smooth.technology](https://smooth.technology/)
 * [AV&C](https://www.av-controls.com/)
-
-
+* [Random Studio](https://random.studio/projects)
+* [Wearable Media](https://www.wearablemedia.co/)
 
