@@ -108,11 +108,11 @@ Non-exhaustive assortment of possibilities
 * [Radical Software](http://www.radicalsoftware.org/e/index.html)
 * [Lillian Schwartz's films](http://lillian.com/films/)
 * [Mechanical Mirrors](https://bitforms.art/archives/rozin/penguins-mirror), Danny Rozin
-* [Coin-Operated Wetland](http://tegabrain.com/Coin-Operated-Wetland)
-* [Not the Only One](https://www.stephaniedinkins.com/ntoo.html) Stephanie Dinkins
-* [Urban Armor](http://kthartic.com/index.php?/class/urban-armor-7/) Kathleen McDermott
+* [Coin-Operated Wetland](http://tegabrain.com/Coin-Operated-Wetland), Tega Brain
+* [Not the Only One](https://www.stephaniedinkins.com/ntoo.html), Stephanie Dinkins
+* [Urban Armor](http://kthartic.com/index.php?/class/urban-armor-7/), Kathleen McDermott
 * [Crank the Web](http://www.coin-operated.com/2010/05/04/crank-the-web-2001/), Jonah Brucker-Cohen
-* [Ryoji Ikeda](http://www.ryojiikeda.com/) / [Datamatics](http://www.ryojiikeda.com/project/datamatics/)
+* [Datamatics](http://www.ryojiikeda.com/project/datamatics/), [Ryoji Ikeda](http://www.ryojiikeda.com/)
 * [Thinking Machines @ MOMA](https://www.moma.org/calendar/exhibitions/3863?installation_image_index=1)
 * [bitforms gallery](https://bitforms.art/)
 * [Feel Train](https://feeltrain.com/) cofounded by [Darius Kazemi](http://tinysubversions.com/) and [Courtney Stanton](https://www.superopinionated.com/)
