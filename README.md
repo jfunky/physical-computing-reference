@@ -123,4 +123,9 @@ Non-exhaustive assortment of possibilities
 * [AV&C](https://www.av-controls.com/)
 * [Random Studio](https://random.studio/projects)
 * [Wearable Media](https://www.wearablemedia.co/)
+* [Artist and Computer](https://www.atariarchives.org/artist/index.php)
+* [Eyebeam](https://www.eyebeam.org/)
+* [Rhizome](https://rhizome.org/)
+* [Experiments in Art and Technology](https://monoskop.org/Experiments_in_Art_and_Technology)
+
 
