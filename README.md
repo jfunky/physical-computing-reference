@@ -125,7 +125,10 @@ Non-exhaustive assortment of possibilities
 * [Wearable Media](https://www.wearablemedia.co/)
 * [Artist and Computer](https://www.atariarchives.org/artist/index.php)
 * [Eyebeam](https://www.eyebeam.org/)
-* [Rhizome](https://rhizome.org/)
+* [Rhizome](https://rhizome.org/) / [Rhizome Net Art Anthology](https://anthology.rhizome.org/)
 * [Experiments in Art and Technology](https://monoskop.org/Experiments_in_Art_and_Technology)
+* [UbuWeb](https://ubu.com/)
 * [Deep Web](https://vimeo.com/181520274) by Christopher Bauder and Robert Henke
+* [School for Poetic Computation](https://sfpc.io/)
+* [Harvestworks](http://www.harvestworks.org/)
 
