@@ -1,5 +1,5 @@
 # Physical Computing Reference list
-Useful links for physical and creative computing
+Useful links for physical computing & creative coding
 
 ### Beginner Parts List
 
