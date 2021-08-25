@@ -131,4 +131,6 @@ Non-exhaustive assortment of possibilities
 * [Deep Web](https://vimeo.com/181520274) by Christopher Bauder and Robert Henke
 * [School for Poetic Computation](https://sfpc.io/)
 * [Harvestworks](http://www.harvestworks.org/)
-
+* [Pioneer Works](https://pioneerworks.org/)
+* [nervous sytem](https://n-e-r-v-o-u-s.com/index.php)
+* [Artists and Hackers](https://www.artistsandhackers.org/)
