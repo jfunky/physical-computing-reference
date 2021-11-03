@@ -107,7 +107,6 @@ Non-exhaustive assortment of possibilities
 
 * [Radical Software](http://www.radicalsoftware.org/e/index.html)
 * [Lillian Schwartz's films](http://lillian.com/films/)
-* [Mechanical Mirrors](https://bitforms.art/archives/rozin/penguins-mirror), Danny Rozin
 * [Coin-Operated Wetland](http://tegabrain.com/Coin-Operated-Wetland), Tega Brain
 * [Not the Only One](https://www.stephaniedinkins.com/ntoo.html), Stephanie Dinkins
 * [Urban Armor](http://kthartic.com/index.php?/class/urban-armor-7/), Kathleen McDermott
